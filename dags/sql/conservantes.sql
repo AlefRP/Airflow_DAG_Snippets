@@ -1,0 +1,1 @@
+SELECT * FROM conservantes WHERE data_criacao = {{ds}};
