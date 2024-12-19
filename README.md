@@ -63,7 +63,7 @@ Each file in this repository represents a different example or use case:
 
 ## 📜 License
 
-This repository is licensed under the MIT License. See the LICENSE file for details.
+This repository is licensed under the MIT License. See the [LICENSE.md](LICENSE) file for details.
 
 ---
 
